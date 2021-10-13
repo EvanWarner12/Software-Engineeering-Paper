@@ -8,3 +8,11 @@ What needs to get done(copy and paste this and check it off as we go):
 3)Document everything
 
 Raymond: lets start by getting the first thing done then we will edit the list.
+
+Raymond: saw the first two paragraphs and im now working on a paragraph for the history!
+
+To do/doing:
+1)Evan wrote a paragraph(done)
+2)Raymond wrote a paragraph(in Progress)
+3)notes were made(in progress)
+4)Repositroy made(done)
